@@ -9,6 +9,8 @@ gem 'logger'
 gem 'base64'
 gem 'ostruct'
 gem "kramdown-parser-gfm"
+gem "sass-embedded", ">= 1.70"
+gem "jekyll-sass-converter", "~> 3.1"
 
 # needed for Rake tasks
 gem 'rake'
